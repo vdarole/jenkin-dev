@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 71ca9762dc8a9b0fdb4b6841595575a3b14e02a3 Ubuntu <vdarole@slave01.(none)> 1672322319 +0000	fetch --tags --progress -- https://github.com/vistasunil/devopsIQ +refs/heads/*:refs/remotes/origin/*: storing head
